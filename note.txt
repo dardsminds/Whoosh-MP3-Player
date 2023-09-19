@@ -1,0 +1,22 @@
+      I M P O R T A N T !!
+
+WhooshMP3 needs the file below installed in your computer
+---------------------------------------------------------
+
+DirectX 8.0
+
+----you can find the file below from Visual Basic 6.0 Installer CD
+
+Msvbvm60.dll  - VB6 runtime 
+
+
+Files above was not included in the setup file to minimize
+the size of the setup files.
+
+NOTE:
+- you can add the sample file just by copying a wave file to Samples 
+directory inside Whoosh folder, filename must be Sample1.wav, Sample2.wav
+sample3.wav and sample4.wav. 
+
+Also the same procedure in loops files.
+

@@ -1,0 +1,92 @@
+Line 95: Class Whoosh.GurhanButton of control CmdAddToPL was not a loaded control class.
+Line 116: Class Whoosh.GurhanButton of control IntroStop was not a loaded control class.
+Line 143: Class Whoosh.GurhanButton of control IntroPlay was not a loaded control class.
+Line 170: Class Whoosh.GurhanButton of control OutroStop was not a loaded control class.
+Line 197: Class Whoosh.GurhanButton of control OutroPlay was not a loaded control class.
+Line 224: Class Whoosh.cpvSlider of control IntroPos was not a loaded control class.
+Line 239: Class Whoosh.cpvSlider of control OutroPos was not a loaded control class.
+Line 255: Class Whoosh.GurhanButton of control GurhanButton1 was not a loaded control class.
+Line 282: Class Whoosh.GurhanButton of control GurhanButton2 was not a loaded control class.
+Line 309: Class Whoosh.GurhanButton of control GurhanButton3 was not a loaded control class.
+Line 334: Class Whoosh.GurhanButton of control GurhanButton4 was not a loaded control class.
+Line 359: Class Whoosh.GurhanButton of control cmdClose was not a loaded control class.
+Line 101: The property name _ExtentX in CmdAddToPL is invalid.
+Line 102: The property name _ExtentY in CmdAddToPL is invalid.
+Line 103: The property name Caption in CmdAddToPL is invalid.
+Line 113: The property name Raised in CmdAddToPL is invalid.
+Line 123: The property name _ExtentX in IntroStop is invalid.
+Line 124: The property name _ExtentY in IntroStop is invalid.
+Line 125: The property name Caption in IntroStop is invalid.
+Line 126: The property name PictureWidth in IntroStop is invalid.
+Line 127: The property name PictureHeight in IntroStop is invalid.
+Line 128: The property name PictureSize in IntroStop is invalid.
+Line 139: The property name Raised in IntroStop is invalid.
+Line 150: The property name _ExtentX in IntroPlay is invalid.
+Line 151: The property name _ExtentY in IntroPlay is invalid.
+Line 152: The property name Caption in IntroPlay is invalid.
+Line 153: The property name PictureWidth in IntroPlay is invalid.
+Line 154: The property name PictureHeight in IntroPlay is invalid.
+Line 155: The property name PictureSize in IntroPlay is invalid.
+Line 166: The property name Raised in IntroPlay is invalid.
+Line 177: The property name _ExtentX in OutroStop is invalid.
+Line 178: The property name _ExtentY in OutroStop is invalid.
+Line 179: The property name Caption in OutroStop is invalid.
+Line 180: The property name PictureWidth in OutroStop is invalid.
+Line 181: The property name PictureHeight in OutroStop is invalid.
+Line 182: The property name PictureSize in OutroStop is invalid.
+Line 193: The property name Raised in OutroStop is invalid.
+Line 204: The property name _ExtentX in OutroPlay is invalid.
+Line 205: The property name _ExtentY in OutroPlay is invalid.
+Line 206: The property name Caption in OutroPlay is invalid.
+Line 207: The property name PictureWidth in OutroPlay is invalid.
+Line 208: The property name PictureHeight in OutroPlay is invalid.
+Line 209: The property name PictureSize in OutroPlay is invalid.
+Line 220: The property name Raised in OutroPlay is invalid.
+Line 229: The property name _ExtentX in IntroPos is invalid.
+Line 230: The property name _ExtentY in IntroPos is invalid.
+Line 232: The property name SliderIcon in IntroPos is invalid.
+Line 233: The property name Orientation in IntroPos is invalid.
+Line 234: The property name RailPicture in IntroPos is invalid.
+Line 235: The property name RailStyle in IntroPos is invalid.
+Line 236: The property name ShowValueTip in IntroPos is invalid.
+Line 237: The property name Max in IntroPos is invalid.
+Line 244: The property name _ExtentX in OutroPos is invalid.
+Line 245: The property name _ExtentY in OutroPos is invalid.
+Line 248: The property name SliderIcon in OutroPos is invalid.
+Line 249: The property name Orientation in OutroPos is invalid.
+Line 250: The property name RailPicture in OutroPos is invalid.
+Line 251: The property name RailStyle in OutroPos is invalid.
+Line 252: The property name ShowValueTip in OutroPos is invalid.
+Line 253: The property name Max in OutroPos is invalid.
+Line 262: The property name _ExtentX in GurhanButton1 is invalid.
+Line 263: The property name _ExtentY in GurhanButton1 is invalid.
+Line 264: The property name Caption in GurhanButton1 is invalid.
+Line 265: The property name PictureWidth in GurhanButton1 is invalid.
+Line 266: The property name PictureHeight in GurhanButton1 is invalid.
+Line 267: The property name PictureSize in GurhanButton1 is invalid.
+Line 278: The property name Raised in GurhanButton1 is invalid.
+Line 289: The property name _ExtentX in GurhanButton2 is invalid.
+Line 290: The property name _ExtentY in GurhanButton2 is invalid.
+Line 291: The property name Caption in GurhanButton2 is invalid.
+Line 292: The property name PictureWidth in GurhanButton2 is invalid.
+Line 293: The property name PictureHeight in GurhanButton2 is invalid.
+Line 294: The property name PictureSize in GurhanButton2 is invalid.
+Line 305: The property name Raised in GurhanButton2 is invalid.
+Line 316: The property name _ExtentX in GurhanButton3 is invalid.
+Line 317: The property name _ExtentY in GurhanButton3 is invalid.
+Line 318: The property name Caption in GurhanButton3 is invalid.
+Line 319: The property name PictureWidth in GurhanButton3 is invalid.
+Line 320: The property name PictureHeight in GurhanButton3 is invalid.
+Line 321: The property name PictureSize in GurhanButton3 is invalid.
+Line 332: The property name Raised in GurhanButton3 is invalid.
+Line 341: The property name _ExtentX in GurhanButton4 is invalid.
+Line 342: The property name _ExtentY in GurhanButton4 is invalid.
+Line 343: The property name Caption in GurhanButton4 is invalid.
+Line 344: The property name PictureWidth in GurhanButton4 is invalid.
+Line 345: The property name PictureHeight in GurhanButton4 is invalid.
+Line 346: The property name PictureSize in GurhanButton4 is invalid.
+Line 357: The property name Raised in GurhanButton4 is invalid.
+Line 365: The property name _ExtentX in cmdClose is invalid.
+Line 366: The property name _ExtentY in cmdClose is invalid.
+Line 367: The property name Caption in cmdClose is invalid.
+Line 378: The property name Raised in cmdClose is invalid.
