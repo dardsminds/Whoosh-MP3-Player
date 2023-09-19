@@ -1,5 +1,7 @@
 ## Whoosh MP3 v4.0
 
+![screen capture](https://github.com/dardsminds/Whoosh-MP3-Player/tree/606552f377c75992fbdf58f72f8f8f5705605f12/screen%20shots)
+
 Information:
 Whoosh MP3 is a perfect solution in music automation for Radio, party or personal, it is known for its perfect intelligent music mix-point detection, with additional some features like; 
 Manual crossfading, equalizer, Digital Sound Processor, Auto Gain Control, Media Library, Digital CD playing, Music Category, MP3 tag, Mix-point manual editing and lots more...
@@ -10,8 +12,6 @@ from third party library, although they are scanned in my machine for viruses bu
 machine, so use this program at your own risk!!!
 
 ### Contact:
-http://www.Mindworksoft.com/whoosh  
-
 email: dardsmindworks@gmail.com
 site: http://www.Mindworksoft.com
 
