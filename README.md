@@ -1,6 +1,6 @@
 ## Whoosh MP3 v4.0
 
-![screen capture](https://github.com/dardsminds/Whoosh-MP3-Player/tree/606552f377c75992fbdf58f72f8f8f5705605f12/screen%20shots)
+![screen capture](https://github.com/dardsminds/Whoosh-MP3-Player/blob/cf16eb24a94aa5839bdb38a0188064bd2e98a07b/screen%20shots/image_jpeg-1610607723.jpg)
 
 Information:
 Whoosh MP3 is a perfect solution in music automation for Radio, party or personal, it is known for its perfect intelligent music mix-point detection, with additional some features like; 
